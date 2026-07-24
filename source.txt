@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+int i,j,k;
+char ch,d;
+float g,h,pi;
+for(i=0;i<5;i++)
+printf("%d ",i);
+return 0;
+}
+
+
+

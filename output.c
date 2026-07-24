@@ -1,0 +1,10 @@
+#include<stdio.h>
+intmain()
+{
+floata=5.5;
+intb=10;
+intc=a+b;
+intd=100;
+printf("%d",c);
+return0;
+}
